@@ -1,0 +1,4 @@
+# File to be read by R
+# Attractors found (maximum period is 3000).
+# States found in attractors. from 1048576 possible states in network
+4	70

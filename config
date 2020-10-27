@@ -1,0 +1,15 @@
+#operations:topology,get_attractors,get_phase
+nm:15
+m:1
+k:5.000000
+l:0.000000
+p:0.5
+topology:0
+redNodes:5
+fd:1.0
+id:1.0
+od:1.0
+iterations:1
+file:./salida
+operations:get_attractors
+maxStates:32768
